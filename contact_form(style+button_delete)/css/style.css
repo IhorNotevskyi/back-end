@@ -1,0 +1,47 @@
+body {
+    background: #dbdbdb;
+    font-size: 150%;
+}
+
+h1.text-center {
+    margin: 4%;
+    text-shadow: -1px 1px 1px #77807B;
+}
+
+form {
+    width: 40%;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+
+.big-label {
+    font-size: 140%;
+}
+
+.position {
+    margin-right: 2%;
+}
+
+.comments {
+    margin: 2% 0;
+    padding: 2%;
+    border-top: 1px solid #0f0f0f;
+    border-bottom: 1px solid #0f0f0f;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+.btn {
+    box-shadow: 1px 2px 5px #000000;
+}
+
+.pin {
+    background: #8eb3ff;
+    padding: 1%;
+}
+
+.bg-danger {
+    padding: 1% 5%;
+}
