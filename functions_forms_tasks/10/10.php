@@ -1,8 +1,5 @@
 <?php
 
-var_dump($_POST['words']);
-echo '<br>';
-
 if(isset($_POST['words']))
 {
     $words = $_POST['words'];
